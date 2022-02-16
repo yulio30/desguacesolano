@@ -12,13 +12,9 @@ enableRobotsTXT = true
 
 [languages]
   [languages.es]
-    title = ""
+    title = "Desguace Solano SL"
     weight = 1
     contentDir = "content/es"
-  [languages.en]
-    title = ""
-    weight = 2
-    contentDir = "content/en"
 
 [sitemap]
   changefreq = "monthly"
