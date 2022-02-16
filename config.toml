@@ -1,24 +1,24 @@
-baseURL = 'https://desguacesolano.es/'
-languageCode = 'es-ES'
-title = 'Desguace Solano'
-theme = 'ananke'
-resourceDir = "../resources"
+title = "Desguace Solano SL"
+baseURL = "https://desguacesolano.es"
+languageCode = "es-ES"
+theme = "ananke"
+resourceDir = "./resources"
 
 DefaultContentLanguage = "es"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 2 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.en]
-    title = "Ananke"
+  [languages.es]
+    title = ""
     weight = 1
-    contentDir = "content/en"
-  [languages.fr]
-    title = "Ananke Fr"
+    contentDir = "content/es"
+  [languages.en]
+    title = ""
     weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/en"
 
 [sitemap]
   changefreq = "monthly"
@@ -37,4 +37,4 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+url = ""
