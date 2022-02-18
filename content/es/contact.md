@@ -8,6 +8,7 @@ menu: main
 
 ---
 
+{{<map>}}
 
 Si tienes alguna duda consultanos por este formulario:
 
