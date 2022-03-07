@@ -10,6 +10,10 @@ menu: main
 
 {{<map>}}
 
-Si tienes alguna duda consultanos por este formulario:
 
+Para contactar con nosostros nos puedes mandar un email a: admin@desguacesolano.es o llamar al teléfono 687812369
+
+
+
+Si tienes alguna duda consultanos por este formulario:
 {{< form-contact action="https://formspree.io/f/mayvooky"  >}}
