@@ -16,4 +16,4 @@ Para contactar con nosostros nos puedes mandar un email a: admin@desguacesolano.
 
 
 Si tienes alguna duda consultanos por este formulario:
-{{< form-contact action="https://formspree.io/f/mayvooky"  >}}
+{{<form-contact action="https://formspree.io/f/mayvooky"  >}}
